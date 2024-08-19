@@ -5,7 +5,8 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-oftware engineering is the discipline of designing, developing, testing, and maintaining software systems using structured methods and principles. It combines technical expertise with problem-solving skills to create reliable and efficient software solutions that meet user needs.
+
+Software engineering is the discipline of designing, developing, testing, and maintaining software systems using structured methods and principles. It combines technical expertise with problem-solving skills to create reliable and efficient software solutions that meet user needs.
 
 As a beginner, think of software engineering as the blueprint for building software, much like how architects design buildings. It ensures that software is not just functional but also scalable, maintainable, and user-friendly. By following established methodologies, software engineers can manage complex projects, reduce errors, and ensure that the final product is of high quality.
 
